@@ -1,0 +1,7 @@
+This example is based on
+
+    https://github.com/timlau/gtk-demo/tree/344a47fd48333efdb69f0b6812043e806fe960f2/gtk3-css-pimp
+
+The files `main.ui` and `main.css` are unchanged from the original example.
+
+The file `main.sml` is a transcription of `main.py` from the original example.
